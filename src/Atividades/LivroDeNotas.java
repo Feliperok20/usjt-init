@@ -12,7 +12,7 @@ public class LivroDeNotas {
     }
 
     public void exibirMensagem(){
-        System.out.println("O nome do curso é :  " + getNomeDoCurso);
+        System.out.println("Bem vindo ao curso :   " + getNomeDoCurso);
 
 
     }
